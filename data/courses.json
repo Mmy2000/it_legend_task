@@ -1,0 +1,893 @@
+[
+  {
+    "slug": "seo-home-business",
+    "title": "Starting SEO as your Home Based Business",
+    "summary": "Plan, build and grow organic traffic for a small business, from keyword research to technical audits.",
+    "category": "Marketing",
+    "level": "Beginner",
+    "image": "/images/courses/seo-home-business.webp",
+    "poster": "/images/courses/seo-home-business-poster.webp",
+    "instructor": {
+      "name": "Edward Norton",
+      "title": "SEO Consultant",
+      "avatar": "/images/avatars/instructor-2.webp"
+    },
+    "durationLabel": "3 weeks",
+    "enrolled": 65,
+    "language": "English",
+    "certificate": true,
+    "rating": 4.8,
+    "sections": [
+      {
+        "id": "seo-home-business-s1",
+        "title": "Week 1-4",
+        "description": "Advanced story telling techniques for writers: Personas, Characters & Plots",
+        "lessons": [
+          {
+            "id": "seo-home-business-s1-l1",
+            "title": "Introduction",
+            "type": "video",
+            "duration": 6,
+            "src": "/videos/big-buck-bunny.mp4"
+          },
+          {
+            "id": "seo-home-business-s1-l2",
+            "title": "Course Overview",
+            "type": "video",
+            "duration": 9,
+            "src": "/videos/jellyfish.mp4"
+          },
+          {
+            "id": "seo-home-business-s1-l3",
+            "title": "Course Overview",
+            "type": "exam",
+            "duration": 10,
+            "src": "seo-overview-quiz",
+            "questions": 5
+          },
+          {
+            "id": "seo-home-business-s1-l4",
+            "title": "Course Exercise / Reference Files",
+            "type": "pdf",
+            "duration": 5,
+            "src": "/files/seo-reference-files.pdf"
+          },
+          {
+            "id": "seo-home-business-s1-l5",
+            "title": "Code Editor Installation (Optional if you have one)",
+            "type": "video",
+            "duration": 7,
+            "src": "/videos/sintel.mp4"
+          },
+          {
+            "id": "seo-home-business-s1-l6",
+            "title": "Embedding PHP in HTML",
+            "type": "video",
+            "duration": 12,
+            "src": "/videos/flower.mp4"
+          }
+        ]
+      },
+      {
+        "id": "seo-home-business-s2",
+        "title": "Week 5-8",
+        "description": "Advanced story telling techniques for writers: Personas, Characters & Plots",
+        "lessons": [
+          {
+            "id": "seo-home-business-s2-l1",
+            "title": "Defining Functions",
+            "type": "video",
+            "duration": 11,
+            "src": "/videos/big-buck-bunny.mp4"
+          },
+          {
+            "id": "seo-home-business-s2-l2",
+            "title": "Function Parameters",
+            "type": "video",
+            "duration": 8,
+            "src": "/videos/jellyfish.mp4"
+          },
+          {
+            "id": "seo-home-business-s2-l3",
+            "title": "Return Values From Functions",
+            "type": "exam",
+            "duration": 15,
+            "src": "functions-quiz",
+            "questions": 2
+          },
+          {
+            "id": "seo-home-business-s2-l4",
+            "title": "Global Variable and Scope",
+            "type": "video",
+            "duration": 10,
+            "src": "/videos/sintel.mp4"
+          },
+          {
+            "id": "seo-home-business-s2-l5",
+            "title": "Newer Way of creating a Constant",
+            "type": "video",
+            "duration": 6,
+            "src": "/videos/flower.mp4"
+          },
+          {
+            "id": "seo-home-business-s2-l6",
+            "title": "Constants",
+            "type": "video",
+            "duration": 5,
+            "src": "/videos/big-buck-bunny.mp4"
+          }
+        ]
+      },
+      {
+        "id": "seo-home-business-s3",
+        "title": "Week 9-12",
+        "description": "Put it all together: audits, local search and measuring what actually moves the needle.",
+        "lessons": [
+          {
+            "id": "seo-home-business-s3-l1",
+            "title": "Keyword Research Basics",
+            "type": "video",
+            "duration": 14,
+            "src": "/videos/jellyfish.mp4"
+          },
+          {
+            "id": "seo-home-business-s3-l2",
+            "title": "On-page SEO Checklist",
+            "type": "pdf",
+            "duration": 4,
+            "src": "/files/seo-reference-files.pdf"
+          },
+          {
+            "id": "seo-home-business-s3-l3",
+            "title": "Technical SEO Audit",
+            "type": "video",
+            "duration": 16,
+            "src": "/videos/sintel.mp4"
+          },
+          {
+            "id": "seo-home-business-s3-l4",
+            "title": "Link Building Strategies",
+            "type": "video",
+            "duration": 12,
+            "src": "/videos/flower.mp4"
+          },
+          {
+            "id": "seo-home-business-s3-l5",
+            "title": "Local SEO for Home Businesses",
+            "type": "video",
+            "duration": 9,
+            "src": "/videos/big-buck-bunny.mp4"
+          },
+          {
+            "id": "seo-home-business-s3-l6",
+            "title": "Measuring Results with Analytics",
+            "type": "video",
+            "duration": 13,
+            "src": "/videos/jellyfish.mp4"
+          },
+          {
+            "id": "seo-home-business-s3-l7",
+            "title": "Final Exam",
+            "type": "exam",
+            "duration": 20,
+            "src": "seo-final-exam",
+            "questions": 5
+          }
+        ]
+      }
+    ],
+    "seed": {
+      "completed": [
+        "seo-home-business-s1-l1",
+        "seo-home-business-s1-l2",
+        "seo-home-business-s1-l3",
+        "seo-home-business-s1-l4",
+        "seo-home-business-s1-l5",
+        "seo-home-business-s1-l6",
+        "seo-home-business-s2-l1",
+        "seo-home-business-s2-l2",
+        "seo-home-business-s2-l3",
+        "seo-home-business-s2-l4",
+        "seo-home-business-s2-l5",
+        "seo-home-business-s2-l6"
+      ],
+      "currentLessonId": "seo-home-business-s3-l1"
+    }
+  },
+  {
+    "slug": "javascript-essentials",
+    "title": "JavaScript Essentials",
+    "summary": "Variables, functions, the DOM and async code: the core language skills every web developer needs.",
+    "category": "Development",
+    "level": "Beginner",
+    "image": "/images/courses/javascript-essentials.webp",
+    "poster": "/images/courses/javascript-essentials.webp",
+    "instructor": {
+      "name": "Sara Whitman",
+      "title": "Senior Frontend Engineer",
+      "avatar": "/images/avatars/instructor-1.webp"
+    },
+    "durationLabel": "6 weeks",
+    "enrolled": 1240,
+    "language": "English",
+    "certificate": true,
+    "rating": 4.9,
+    "sections": [
+      {
+        "id": "javascript-essentials-s1",
+        "title": "Getting Started",
+        "description": "Set up your tools and write your first lines of JavaScript.",
+        "lessons": [
+          {
+            "id": "javascript-essentials-s1-l1",
+            "title": "Welcome to the course",
+            "type": "video",
+            "duration": 3,
+            "src": "/videos/sintel.mp4"
+          },
+          {
+            "id": "javascript-essentials-s1-l2",
+            "title": "Setting up VS Code",
+            "type": "video",
+            "duration": 8,
+            "src": "/videos/flower.mp4"
+          },
+          {
+            "id": "javascript-essentials-s1-l3",
+            "title": "Cheat sheet",
+            "type": "pdf",
+            "duration": 3,
+            "src": "/files/seo-reference-files.pdf"
+          }
+        ]
+      },
+      {
+        "id": "javascript-essentials-s2",
+        "title": "JavaScript Language Basics",
+        "description": "Values, types, operators and control flow.",
+        "lessons": [
+          {
+            "id": "javascript-essentials-s2-l1",
+            "title": "Variables and types",
+            "type": "video",
+            "duration": 12,
+            "src": "/videos/big-buck-bunny.mp4"
+          },
+          {
+            "id": "javascript-essentials-s2-l2",
+            "title": "Operators",
+            "type": "video",
+            "duration": 9,
+            "src": "/videos/jellyfish.mp4"
+          },
+          {
+            "id": "javascript-essentials-s2-l3",
+            "title": "If / else and switch",
+            "type": "video",
+            "duration": 11,
+            "src": "/videos/sintel.mp4"
+          },
+          {
+            "id": "javascript-essentials-s2-l4",
+            "title": "Basics quiz",
+            "type": "exam",
+            "duration": 10,
+            "src": "functions-quiz",
+            "questions": 2
+          }
+        ]
+      },
+      {
+        "id": "javascript-essentials-s3",
+        "title": "Working with the DOM",
+        "lessons": [
+          {
+            "id": "javascript-essentials-s3-l1",
+            "title": "Selecting elements",
+            "type": "video",
+            "duration": 10,
+            "src": "/videos/flower.mp4"
+          },
+          {
+            "id": "javascript-essentials-s3-l2",
+            "title": "Events",
+            "type": "video",
+            "duration": 14,
+            "src": "/videos/big-buck-bunny.mp4"
+          },
+          {
+            "id": "javascript-essentials-s3-l3",
+            "title": "Building a to-do list",
+            "type": "video",
+            "duration": 22,
+            "src": "/videos/jellyfish.mp4"
+          }
+        ]
+      }
+    ],
+    "seed": {
+      "completed": [
+        "javascript-essentials-s1-l1",
+        "javascript-essentials-s1-l2",
+        "javascript-essentials-s1-l3",
+        "javascript-essentials-s2-l1"
+      ],
+      "currentLessonId": "javascript-essentials-s2-l2"
+    }
+  },
+  {
+    "slug": "react-from-zero",
+    "title": "React From Zero to Production: Components, Hooks, Routing & Data Fetching",
+    "summary": "A long-form, project-based path through modern React, from your first component to a deployed app.",
+    "category": "Development",
+    "level": "Intermediate",
+    "image": "/images/courses/react-from-zero.webp",
+    "poster": "/images/courses/react-from-zero.webp",
+    "instructor": {
+      "name": "Sara Whitman",
+      "title": "Senior Frontend Engineer",
+      "avatar": "/images/avatars/instructor-1.webp"
+    },
+    "durationLabel": "8 weeks",
+    "enrolled": 860,
+    "language": "English",
+    "certificate": true,
+    "rating": 4.7,
+    "sections": [
+      {
+        "id": "react-from-zero-s1",
+        "title": "Components & Databinding",
+        "description": "Think in components and pass data with props.",
+        "lessons": [
+          {
+            "id": "react-from-zero-s1-l1",
+            "title": "JSX in depth",
+            "type": "video",
+            "duration": 13,
+            "src": "/videos/sintel.mp4"
+          },
+          {
+            "id": "react-from-zero-s1-l2",
+            "title": "Props and composition",
+            "type": "video",
+            "duration": 12,
+            "src": "/videos/flower.mp4"
+          },
+          {
+            "id": "react-from-zero-s1-l3",
+            "title": "Lists and keys",
+            "type": "video",
+            "duration": 9,
+            "src": "/videos/big-buck-bunny.mp4"
+          }
+        ]
+      },
+      {
+        "id": "react-from-zero-s2",
+        "title": "Hooks",
+        "lessons": [
+          {
+            "id": "react-from-zero-s2-l1",
+            "title": "useState",
+            "type": "video",
+            "duration": 10,
+            "src": "/videos/jellyfish.mp4"
+          },
+          {
+            "id": "react-from-zero-s2-l2",
+            "title": "useEffect without the footguns",
+            "type": "video",
+            "duration": 18,
+            "src": "/videos/sintel.mp4"
+          },
+          {
+            "id": "react-from-zero-s2-l3",
+            "title": "Custom hooks",
+            "type": "video",
+            "duration": 14,
+            "src": "/videos/flower.mp4"
+          },
+          {
+            "id": "react-from-zero-s2-l4",
+            "title": "Hooks quiz",
+            "type": "exam",
+            "duration": 15,
+            "src": "functions-quiz",
+            "questions": 2
+          }
+        ]
+      },
+      {
+        "id": "react-from-zero-s3",
+        "title": "Routing & Data",
+        "lessons": [
+          {
+            "id": "react-from-zero-s3-l1",
+            "title": "File-based routing",
+            "type": "video",
+            "duration": 11,
+            "src": "/videos/big-buck-bunny.mp4"
+          },
+          {
+            "id": "react-from-zero-s3-l2",
+            "title": "Server components",
+            "type": "video",
+            "duration": 16,
+            "src": "/videos/jellyfish.mp4"
+          },
+          {
+            "id": "react-from-zero-s3-l3",
+            "title": "Data fetching patterns",
+            "type": "pdf",
+            "duration": 6,
+            "src": "/files/seo-reference-files.pdf"
+          },
+          {
+            "id": "react-from-zero-s3-l4",
+            "title": "Deploying",
+            "type": "video",
+            "duration": 9,
+            "src": "/videos/sintel.mp4"
+          }
+        ]
+      }
+    ],
+    "seed": {
+      "completed": []
+    }
+  },
+  {
+    "slug": "ui-ux-foundations",
+    "title": "UI/UX Design Foundations",
+    "summary": "Learn layout, typography, color and usability testing by redesigning a real product screen.",
+    "category": "Design",
+    "level": "Beginner",
+    "image": "/images/courses/ui-ux-foundations.webp",
+    "poster": "/images/courses/ui-ux-foundations.webp",
+    "instructor": {
+      "name": "Lina Haddad",
+      "title": "Product Designer",
+      "avatar": "/images/avatars/instructor-3.webp"
+    },
+    "durationLabel": "4 weeks",
+    "enrolled": 532,
+    "language": "Arabic",
+    "certificate": true,
+    "rating": 4.6,
+    "sections": [
+      {
+        "id": "ui-ux-foundations-s1",
+        "title": "Design Thinking",
+        "lessons": [
+          {
+            "id": "ui-ux-foundations-s1-l1",
+            "title": "What is UX?",
+            "type": "video",
+            "duration": 7,
+            "src": "/videos/flower.mp4"
+          },
+          {
+            "id": "ui-ux-foundations-s1-l2",
+            "title": "Personas",
+            "type": "video",
+            "duration": 10,
+            "src": "/videos/big-buck-bunny.mp4"
+          }
+        ]
+      },
+      {
+        "id": "ui-ux-foundations-s2",
+        "title": "Visual Design",
+        "lessons": [
+          {
+            "id": "ui-ux-foundations-s2-l1",
+            "title": "Grids and spacing",
+            "type": "video",
+            "duration": 12,
+            "src": "/videos/jellyfish.mp4"
+          },
+          {
+            "id": "ui-ux-foundations-s2-l2",
+            "title": "Typography",
+            "type": "video",
+            "duration": 11,
+            "src": "/videos/sintel.mp4"
+          },
+          {
+            "id": "ui-ux-foundations-s2-l3",
+            "title": "Color and contrast",
+            "type": "video",
+            "duration": 9,
+            "src": "/videos/flower.mp4"
+          },
+          {
+            "id": "ui-ux-foundations-s2-l4",
+            "title": "Visual design quiz",
+            "type": "exam",
+            "duration": 10,
+            "src": "functions-quiz",
+            "questions": 2
+          }
+        ]
+      }
+    ],
+    "seed": {
+      "completed": [
+        "ui-ux-foundations-s1-l1",
+        "ui-ux-foundations-s1-l2",
+        "ui-ux-foundations-s2-l1",
+        "ui-ux-foundations-s2-l2",
+        "ui-ux-foundations-s2-l3",
+        "ui-ux-foundations-s2-l4"
+      ]
+    }
+  },
+  {
+    "slug": "data-analysis-python",
+    "title": "Data Analysis with Python",
+    "summary": "Clean, explore and visualise datasets with pandas and matplotlib.",
+    "category": "Data",
+    "level": "Intermediate",
+    "image": "/images/courses/data-analysis-python.webp",
+    "poster": "/images/courses/data-analysis-python.webp",
+    "instructor": {
+      "name": "Omar Khaled",
+      "title": "Data Analyst",
+      "avatar": "/images/avatars/instructor-4.webp"
+    },
+    "durationLabel": "5 weeks",
+    "enrolled": 418,
+    "language": "English",
+    "certificate": true,
+    "rating": 4.7,
+    "sections": [
+      {
+        "id": "data-analysis-python-s1",
+        "title": "Python Refresher",
+        "lessons": [
+          {
+            "id": "data-analysis-python-s1-l1",
+            "title": "Notebooks",
+            "type": "video",
+            "duration": 6,
+            "src": "/videos/big-buck-bunny.mp4"
+          },
+          {
+            "id": "data-analysis-python-s1-l2",
+            "title": "Data structures",
+            "type": "video",
+            "duration": 12,
+            "src": "/videos/jellyfish.mp4"
+          }
+        ]
+      },
+      {
+        "id": "data-analysis-python-s2",
+        "title": "pandas",
+        "lessons": [
+          {
+            "id": "data-analysis-python-s2-l1",
+            "title": "DataFrames",
+            "type": "video",
+            "duration": 15,
+            "src": "/videos/sintel.mp4"
+          },
+          {
+            "id": "data-analysis-python-s2-l2",
+            "title": "Grouping",
+            "type": "video",
+            "duration": 13,
+            "src": "/videos/flower.mp4"
+          },
+          {
+            "id": "data-analysis-python-s2-l3",
+            "title": "Merging",
+            "type": "video",
+            "duration": 11,
+            "src": "/videos/big-buck-bunny.mp4"
+          },
+          {
+            "id": "data-analysis-python-s2-l4",
+            "title": "pandas cheat sheet",
+            "type": "pdf",
+            "duration": 4,
+            "src": "/files/seo-reference-files.pdf"
+          }
+        ]
+      },
+      {
+        "id": "data-analysis-python-s3",
+        "title": "Visualisation",
+        "lessons": [
+          {
+            "id": "data-analysis-python-s3-l1",
+            "title": "matplotlib basics",
+            "type": "video",
+            "duration": 12,
+            "src": "/videos/jellyfish.mp4"
+          },
+          {
+            "id": "data-analysis-python-s3-l2",
+            "title": "Telling a story with charts",
+            "type": "video",
+            "duration": 14,
+            "src": "/videos/sintel.mp4"
+          },
+          {
+            "id": "data-analysis-python-s3-l3",
+            "title": "Final project quiz",
+            "type": "exam",
+            "duration": 20,
+            "src": "seo-final-exam",
+            "questions": 5
+          }
+        ]
+      }
+    ],
+    "seed": {
+      "completed": [
+        "data-analysis-python-s1-l1",
+        "data-analysis-python-s1-l2",
+        "data-analysis-python-s2-l1"
+      ],
+      "currentLessonId": "data-analysis-python-s2-l2"
+    }
+  },
+  {
+    "slug": "remote-team-communication",
+    "title": "Remote Team Communication",
+    "summary": "Run effective meetings, write async updates and keep a distributed team aligned.",
+    "category": "Business",
+    "level": "Beginner",
+    "image": "/images/courses/remote-team-communication.webp",
+    "poster": "/images/courses/remote-team-communication.webp",
+    "instructor": {
+      "name": "Lina Haddad",
+      "title": "Product Designer",
+      "avatar": "/images/avatars/instructor-3.webp"
+    },
+    "durationLabel": "2 weeks",
+    "enrolled": 290,
+    "language": "English",
+    "certificate": true,
+    "rating": 4.5,
+    "sections": [
+      {
+        "id": "remote-team-communication-s1",
+        "title": "Async First",
+        "lessons": [
+          {
+            "id": "remote-team-communication-s1-l1",
+            "title": "Writing great updates",
+            "type": "video",
+            "duration": 8,
+            "src": "/videos/flower.mp4"
+          },
+          {
+            "id": "remote-team-communication-s1-l2",
+            "title": "Meetings that matter",
+            "type": "video",
+            "duration": 10,
+            "src": "/videos/big-buck-bunny.mp4"
+          },
+          {
+            "id": "remote-team-communication-s1-l3",
+            "title": "Templates",
+            "type": "pdf",
+            "duration": 3,
+            "src": "/files/seo-reference-files.pdf"
+          }
+        ]
+      }
+    ],
+    "seed": {
+      "completed": []
+    }
+  },
+  {
+    "slug": "fullstack-web-bootcamp",
+    "title": "Full-Stack Web Bootcamp",
+    "summary": "HTML, CSS, JavaScript, Node and databases: ship a complete app by the end.",
+    "category": "Development",
+    "level": "Advanced",
+    "image": "/images/courses/fullstack-web-bootcamp.webp",
+    "poster": "/images/courses/fullstack-web-bootcamp.webp",
+    "instructor": {
+      "name": "Sara Whitman",
+      "title": "Senior Frontend Engineer",
+      "avatar": "/images/avatars/instructor-1.webp"
+    },
+    "durationLabel": "12 weeks",
+    "enrolled": 2105,
+    "language": "Arabic",
+    "certificate": true,
+    "rating": 4.9,
+    "sections": [
+      {
+        "id": "fullstack-web-bootcamp-s1",
+        "title": "Frontend",
+        "lessons": [
+          {
+            "id": "fullstack-web-bootcamp-s1-l1",
+            "title": "Semantic HTML",
+            "type": "video",
+            "duration": 10,
+            "src": "/videos/jellyfish.mp4"
+          },
+          {
+            "id": "fullstack-web-bootcamp-s1-l2",
+            "title": "Modern CSS layout",
+            "type": "video",
+            "duration": 16,
+            "src": "/videos/sintel.mp4"
+          },
+          {
+            "id": "fullstack-web-bootcamp-s1-l3",
+            "title": "Responsive design",
+            "type": "video",
+            "duration": 14,
+            "src": "/videos/flower.mp4"
+          }
+        ]
+      },
+      {
+        "id": "fullstack-web-bootcamp-s2",
+        "title": "Backend",
+        "lessons": [
+          {
+            "id": "fullstack-web-bootcamp-s2-l1",
+            "title": "Node & Express",
+            "type": "video",
+            "duration": 18,
+            "src": "/videos/big-buck-bunny.mp4"
+          },
+          {
+            "id": "fullstack-web-bootcamp-s2-l2",
+            "title": "REST APIs",
+            "type": "video",
+            "duration": 15,
+            "src": "/videos/jellyfish.mp4"
+          },
+          {
+            "id": "fullstack-web-bootcamp-s2-l3",
+            "title": "Authentication",
+            "type": "video",
+            "duration": 20,
+            "src": "/videos/sintel.mp4"
+          }
+        ]
+      },
+      {
+        "id": "fullstack-web-bootcamp-s3",
+        "title": "Databases",
+        "lessons": [
+          {
+            "id": "fullstack-web-bootcamp-s3-l1",
+            "title": "SQL basics",
+            "type": "video",
+            "duration": 14,
+            "src": "/videos/flower.mp4"
+          },
+          {
+            "id": "fullstack-web-bootcamp-s3-l2",
+            "title": "Modelling data",
+            "type": "video",
+            "duration": 12,
+            "src": "/videos/big-buck-bunny.mp4"
+          },
+          {
+            "id": "fullstack-web-bootcamp-s3-l3",
+            "title": "Bootcamp final",
+            "type": "exam",
+            "duration": 20,
+            "src": "seo-final-exam",
+            "questions": 5
+          }
+        ]
+      }
+    ],
+    "seed": {
+      "completed": [
+        "fullstack-web-bootcamp-s1-l1",
+        "fullstack-web-bootcamp-s1-l2",
+        "fullstack-web-bootcamp-s1-l3",
+        "fullstack-web-bootcamp-s2-l1",
+        "fullstack-web-bootcamp-s2-l2",
+        "fullstack-web-bootcamp-s2-l3",
+        "fullstack-web-bootcamp-s3-l1",
+        "fullstack-web-bootcamp-s3-l2",
+        "fullstack-web-bootcamp-s3-l3"
+      ]
+    }
+  },
+  {
+    "slug": "php-for-beginners",
+    "title": "PHP for Beginners",
+    "summary": "Server-side programming with PHP: syntax, forms, sessions and talking to MySQL.",
+    "category": "Development",
+    "level": "Beginner",
+    "image": "/images/courses/php-for-beginners.webp",
+    "poster": "/images/courses/php-for-beginners.webp",
+    "instructor": {
+      "name": "Edward Norton",
+      "title": "SEO Consultant",
+      "avatar": "/images/avatars/instructor-2.webp"
+    },
+    "durationLabel": "4 weeks",
+    "enrolled": 674,
+    "language": "English",
+    "certificate": true,
+    "rating": 4.4,
+    "sections": [
+      {
+        "id": "php-for-beginners-s1",
+        "title": "Course Introduction",
+        "lessons": [
+          {
+            "id": "php-for-beginners-s1-l1",
+            "title": "Introduction",
+            "type": "video",
+            "duration": 5,
+            "src": "/videos/jellyfish.mp4"
+          },
+          {
+            "id": "php-for-beginners-s1-l2",
+            "title": "Course Overview",
+            "type": "video",
+            "duration": 7,
+            "src": "/videos/sintel.mp4"
+          },
+          {
+            "id": "php-for-beginners-s1-l3",
+            "title": "Course Exercise / Reference Files",
+            "type": "pdf",
+            "duration": 5,
+            "src": "/files/seo-reference-files.pdf"
+          }
+        ]
+      },
+      {
+        "id": "php-for-beginners-s2",
+        "title": "PHP Basics",
+        "lessons": [
+          {
+            "id": "php-for-beginners-s2-l1",
+            "title": "Embedding PHP in HTML",
+            "type": "video",
+            "duration": 9,
+            "src": "/videos/flower.mp4"
+          },
+          {
+            "id": "php-for-beginners-s2-l2",
+            "title": "Variables",
+            "type": "video",
+            "duration": 8,
+            "src": "/videos/big-buck-bunny.mp4"
+          },
+          {
+            "id": "php-for-beginners-s2-l3",
+            "title": "Constants",
+            "type": "video",
+            "duration": 6,
+            "src": "/videos/jellyfish.mp4"
+          },
+          {
+            "id": "php-for-beginners-s2-l4",
+            "title": "Basics quiz",
+            "type": "exam",
+            "duration": 10,
+            "src": "functions-quiz",
+            "questions": 2
+          }
+        ]
+      }
+    ],
+    "seed": {
+      "completed": [
+        "php-for-beginners-s1-l1",
+        "php-for-beginners-s1-l2"
+      ],
+      "currentLessonId": "php-for-beginners-s1-l3"
+    }
+  }
+]

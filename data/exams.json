@@ -1,0 +1,158 @@
+[
+  {
+    "id": "seo-overview-quiz",
+    "title": "Course Overview Quiz",
+    "timeLimit": 600,
+    "passMark": 60,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Among the following states of India, which one has the oldest rock formations in the country?",
+        "options": [
+          "Assam",
+          "Bihar",
+          "Karnataka",
+          "Uttar Pradesh"
+        ],
+        "answer": 2
+      },
+      {
+        "id": "q2",
+        "prompt": "What does SEO stand for?",
+        "options": [
+          "Search Engine Optimization",
+          "Site Engagement Overview",
+          "Social Engine Outreach",
+          "Search Entry Order"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "q3",
+        "prompt": "Which HTML element should describe the main topic of a page?",
+        "options": [
+          "<footer>",
+          "<h1>",
+          "<aside>",
+          "<meta keywords>"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "q4",
+        "prompt": "Which metric is part of Core Web Vitals?",
+        "options": [
+          "Bounce rate",
+          "Largest Contentful Paint",
+          "Domain authority",
+          "Page views"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "q5",
+        "prompt": "What is a long-tail keyword?",
+        "options": [
+          "A very short, generic term",
+          "A brand name",
+          "A specific, lower-volume search phrase",
+          "A paid keyword"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "functions-quiz",
+    "title": "Functions Quiz",
+    "timeLimit": 900,
+    "passMark": 50,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "What does a function return when it has no return statement?",
+        "options": [
+          "0",
+          "null",
+          "undefined",
+          "An empty string"
+        ],
+        "answer": 2
+      },
+      {
+        "id": "q2",
+        "prompt": "Which keyword declares a value that cannot be reassigned?",
+        "options": [
+          "var",
+          "let",
+          "const",
+          "static"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "seo-final-exam",
+    "title": "Final Exam",
+    "timeLimit": 1200,
+    "passMark": 60,
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Which file tells crawlers which URLs they may not crawl?",
+        "options": [
+          "sitemap.xml",
+          "robots.txt",
+          "humans.txt",
+          ".htaccess"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "q2",
+        "prompt": "A canonical tag is used to:",
+        "options": [
+          "Block indexing",
+          "Point duplicates to a preferred URL",
+          "Speed up the page",
+          "Add structured data"
+        ],
+        "answer": 1
+      },
+      {
+        "id": "q3",
+        "prompt": "Which is the best alt text for a product photo?",
+        "options": [
+          "image1.jpg",
+          "photo",
+          "Red leather backpack with brass buckles",
+          "SEO backpack best cheap backpack"
+        ],
+        "answer": 2
+      },
+      {
+        "id": "q4",
+        "prompt": "Local SEO relies heavily on:",
+        "options": [
+          "A Google Business Profile",
+          "Hidden text",
+          "Exact-match domains",
+          "Keyword stuffing"
+        ],
+        "answer": 0
+      },
+      {
+        "id": "q5",
+        "prompt": "Which tool shows the search queries your site appears for?",
+        "options": [
+          "Search Console",
+          "Figma",
+          "Lighthouse",
+          "npm"
+        ],
+        "answer": 0
+      }
+    ]
+  }
+]

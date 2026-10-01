@@ -1,0 +1,55 @@
+[
+  {
+    "id": "u1",
+    "name": "Mariam Adel",
+    "points": 2480,
+    "avatar": "/images/avatars/student-2.webp"
+  },
+  {
+    "id": "u2",
+    "name": "Youssef Hany",
+    "points": 2315,
+    "avatar": "/images/avatars/student-1.webp"
+  },
+  {
+    "id": "u3",
+    "name": "Karim Nabil",
+    "points": 2190,
+    "avatar": "/images/avatars/student-3.webp"
+  },
+  {
+    "id": "u4",
+    "name": "Nour El-Din",
+    "points": 1875
+  },
+  {
+    "id": "u5",
+    "name": "Salma Fathy",
+    "points": 1640
+  },
+  {
+    "id": "u6",
+    "name": "Ahmed Samir",
+    "points": 1420
+  },
+  {
+    "id": "u7",
+    "name": "Hana Mostafa",
+    "points": 1105
+  },
+  {
+    "id": "u8",
+    "name": "Ziad Tarek",
+    "points": 860
+  },
+  {
+    "id": "u9",
+    "name": "Reem Ashraf",
+    "points": 540
+  },
+  {
+    "id": "u10",
+    "name": "Omar Wael",
+    "points": 310
+  }
+]

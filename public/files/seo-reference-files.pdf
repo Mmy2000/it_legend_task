@@ -1,0 +1,87 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+3 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R] /Count 2 >>
+endobj
+4 0 obj
+<< /Length 767 >>
+stream
+BT
+/F2 20 Tf
+60 780 Td
+26 TL
+(Course Exercise & Reference Files) Tj T*
+/F1 12 Tf 18 TL
+() Tj T*
+(Starting SEO as your Home Based Business) Tj T*
+() Tj T*
+(1. Keyword research worksheet) Tj T*
+(   - List 20 seed keywords for your niche.) Tj T*
+(   - Group them by search intent: informational, commercial, transactional.) Tj T*
+() Tj T*
+(2. On-page checklist) Tj T*
+(   - One H1 per page that matches the main keyword.) Tj T*
+(   - Descriptive title tags under 60 characters.) Tj T*
+(   - Meta descriptions that invite the click.) Tj T*
+(   - Compressed images with meaningful alt text.) Tj T*
+() Tj T*
+(3. Technical basics) Tj T*
+(   - Submit an XML sitemap.) Tj T*
+(   - Fix broken links and redirect chains.) Tj T*
+(   - Measure Core Web Vitals on mobile.) Tj T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 400 >>
+stream
+BT
+/F2 20 Tf
+60 780 Td
+26 TL
+(Reference Files) Tj T*
+/F1 12 Tf 18 TL
+() Tj T*
+(Recommended reading:) Tj T*
+(   - Google Search Essentials) Tj T*
+(   - web.dev: Core Web Vitals) Tj T*
+(   - Schema.org vocabulary) Tj T*
+() Tj T*
+(Exercise:) Tj T*
+(   Audit one page of your site with the checklist above) Tj T*
+(   and share the three biggest wins in the comments.) Tj T*
+() Tj T*
+(Good luck!) Tj T*
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000079 00000 n 
+0000000154 00000 n 
+0000000217 00000 n 
+0000001035 00000 n 
+0000001171 00000 n 
+0000001622 00000 n 
+0000001758 00000 n 
+trailer
+<< /Size 9 /Root 8 0 R >>
+startxref
+1807
+%%EOF
