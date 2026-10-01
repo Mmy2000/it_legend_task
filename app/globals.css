@@ -1,26 +1,129 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+/*
+ * Design tokens — sampled from the Figma reference (EduBlink-based course page).
+ * Where a sampled color failed WCAG AA for text, a slightly darker "-strong"
+ * variant is used for text/buttons and the original is kept for decoration.
+ */
+@theme {
+  --font-sans: var(--font-spartan), ui-sans-serif, system-ui, sans-serif;
+  --font-body: var(--font-poppins), ui-sans-serif, system-ui, sans-serif;
+  --font-arabic: var(--font-plex-arabic), var(--font-poppins), system-ui, sans-serif;
+
+  --color-heading: #181818;
+  --color-body: #767676; /* design #808080, darkened for 4.5:1 */
+  --color-ink: #333333;
+  --color-label: #525252;
+  --color-muted: #6c6c6c;
+  --color-line: #eeeeee;
+  --color-line-strong: #e5e5e5;
+  --color-soft: #f5f9fa;
+
+  --color-primary: #1ab69d;
+  --color-primary-strong: #0f7f6c;
+  --color-primary-hover: #0b6656;
+  --color-primary-soft: #f2faf8;
+  --color-progress: #6abd8a;
+  --color-track: #e6e6e6;
+  --color-secondary: #ee4a62;
+  --color-secondary-strong: #d42a47;
+  --color-secondary-soft: #fdf2f4;
+  --color-navy: #485293;
+  --color-indigo: #1f2a7a;
+
+  --color-exam: #4259bf;
+  --color-exam-deep: #3447a6;
+  --color-exam-selected: #4263eb;
+  --color-timer: #fbd500;
+
+  --shadow-card: 0 10px 50px 0 rgb(26 46 85 / 0.1);
+  --shadow-soft: 0 4px 16px 0 rgb(26 46 85 / 0.08);
+
+  --breakpoint-xs: 25rem;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    scroll-behavior: smooth;
+  }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+
+  /* `clip` (not `hidden`) prevents horizontal scroll without breaking position: sticky */
+  html,
+  body {
+    overflow-x: clip;
+  }
+
+  body {
+    background: #fff;
+    color: var(--color-body);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* Lock page scroll while a modal <dialog> is open */
+  html:has(dialog[open]) {
+    overflow: hidden;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-primary-strong);
+    outline-offset: 2px;
+  }
+
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+@layer components {
+  .container-page {
+    width: 100%;
+    max-width: 1300px;
+    margin-inline: auto;
+    padding-inline: 15px;
+  }
+  @media (min-width: 768px) {
+    .container-page {
+      padding-inline: 28px;
+    }
+  }
+  @media (min-width: 1280px) {
+    .container-page {
+      padding-inline: 38px;
+    }
+  }
+}
+
+@layer utilities {
+  .scrollbar-thin {
+    scrollbar-width: thin;
+  }
+}
+
+@keyframes eq {
+  0%,
+  100% {
+    height: 30%;
+  }
+  50% {
+    height: 100%;
+  }
+}
+
+dialog::backdrop {
+  background: rgb(10 16 30 / 0.55);
 }
